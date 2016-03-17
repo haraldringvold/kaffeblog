@@ -3,7 +3,7 @@ title = "Hello World!"
 description = ""
 date = "2014-04-02"
 
-image = "image.jpg" # optional
+image = "baristaDudes.jpg" # optional
 +++
 
 Hei og velkommen!
