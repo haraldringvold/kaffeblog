@@ -1,7 +1,7 @@
-baseurl = "//konsulentkoppen.no/"
+baseurl = "https://konsulentkoppen.no/"
 title = "Konsulentkoppen"
 author = "Kaffegutta"
-copyright = ""
+copyright = " "
 canonifyurls = true
 paginate = 3
 theme = "aglaus"
