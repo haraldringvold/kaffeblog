@@ -15,3 +15,8 @@ heller ikke veldig dårlig.
 Jeg mener å huske denne som en ganske god kaffe, men når jeg smaker den nå syns
 jeg det er litt mye blomstersmaker og en ettersmak som ikke sitter helt med meg.
 Noen kaffer har en tendens til å vokse på en, men syns ikke denne gjorde det.
+
+# Kafftein Sortbønne
+Syns den har en relativt rund og frisk smak. Ikke min favoritt kaffe, men 
+defintivt en ok kaffe. Hadde spesielt en opplevelse med denne før lunsj 
+en gang hvor den hadde en meget god og lang ettersmak.
